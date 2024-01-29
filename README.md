@@ -1,6 +1,6 @@
 # This page is about me
 
-![Image](./img/photo_1.jpg =380x)
+![img](./img/photo_1.jpg =380x)
 
 ## My name Fedoriv Yurii
 
