@@ -1,18 +1,18 @@
 # This page is about me
 
-![my](https://github.com/juryp/YuriiInfo/blob/main/img/photo_1.jpg)
+![my](<https://github.com/juryp/YuriiInfo/blob/main/img/photo_1.jpg> =x360)
 
 ## My name Fedoriv Yurii
 
 ---
 
-[ ] I make fork of current project as YuriiInfo on GitHub.
+- [ ] I make fork of current project as YuriiInfo on GitHub.
 
-[ ] I clone new project to my PC.
+- [ ] I clone new project to my PC.
 
-[ ] I create branch on new repo
+- [ ] I create branch on new repo
 
-[ ] I made some minor modifications to the image scale.
+- [ ] I made some minor modifications to the image scale.
 
 ---
 
@@ -30,10 +30,10 @@ npm run lint:md
 npm run spell-check
 ```
 
-Or in one string with sleep 2 second
+Or all command in one string with sleep 2 second
 
 ```console
-npm run format; sleep 2; npm run format:check; sleep 2; npm run format:check; sleep 2; npm run format:check; sleep 2; npm run format:check
+npm run format; sleep 2; npm run format:check; sleep 2; npm run lint:ls; sleep 2; npm run lint:md; sleep 2; npm run spell-check
 ```
 
 After checking, I made sure that there were no errors and started working with
