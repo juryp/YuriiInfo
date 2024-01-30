@@ -1,6 +1,6 @@
 # This page is about me
 
-![my](./img/photo_1.jpg =380x)
+![my](https://github.com/juryp/YuriiInfo/blob/main/img/photo_1.jpg)
 
 ## My name Fedoriv Yurii
 
