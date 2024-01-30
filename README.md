@@ -6,13 +6,15 @@
 
 ---
 
-[ ] I make fork of current project as YuriiInfo on GitHub.
+- I make fork of current project as YuriiInfo on GitHub.
+- I make fork of current project as YuriiInfo on GitHub.
 
-[ ] I clone new project to my PC.
+- I make fork of current project as YuriiInfo on GitHub.
 
-[ ] I create branch on new repo
+- I clone new project to my PC.
 
-[ ] I made some minor modifications to the image scale.
+- I create branch on new repo
+- I made some minor modifications to the image scale.
 
 ---
 
