@@ -1,18 +1,18 @@
 # This page is about me
 
-![my](<https://github.com/juryp/YuriiInfo/blob/main/img/photo_1.jpg> =x360)
+![my](https://github.com/juryp/YuriiInfo/blob/main/img/photo_1.jpg)
 
 ## My name Fedoriv Yurii
 
 ---
 
-- [ ] I make fork of current project as YuriiInfo on GitHub.
+[ ] I make fork of current project as YuriiInfo on GitHub.
 
-- [ ] I clone new project to my PC.
+[ ] I clone new project to my PC.
 
-- [ ] I create branch on new repo
+[ ] I create branch on new repo
 
-- [ ] I made some minor modifications to the image scale.
+[ ] I made some minor modifications to the image scale.
 
 ---
 
