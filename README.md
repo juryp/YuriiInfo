@@ -2,7 +2,7 @@
 
 ![my](https://github.com/juryp/YuriiInfo/blob/main/img/photo_1.jpg)
 
-## My name Fedoriv Yurii
+## My name Yurii
 
 ---
 
